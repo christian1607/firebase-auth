@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Firebase Authentification</string>
+    <string name="email">Correo</string>
+    <string name="password">Contraseña</string>
+    <string name="register">Registrate</string>
+    <string name="login">Ingresar</string>
+</resources>

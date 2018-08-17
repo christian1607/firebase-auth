@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "925344211951",
+    "firebase_url": "https://fir-authentication-255cc.firebaseio.com",
+    "project_id": "fir-authentication-255cc",
+    "storage_bucket": "fir-authentication-255cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925344211951:android:623738f5004d5751",
+        "android_client_info": {
+          "package_name": "authentification.celmam.com.firebaseauthentification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925344211951-ghu87q2vsovhsfd5je3674j8def7tabu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "authentification.celmam.com.firebaseauthentification",
+            "certificate_hash": "85511a71c1d4f20aab8c9127caf1d48c1232a3b5"
+          }
+        },
+        {
+          "client_id": "925344211951-h9u7lg4sq8tufuldsbo0prpjlkhn4tc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLAmfI0KhWR3kXzKRk4iGNEdRsoeTWSRY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925344211951-h9u7lg4sq8tufuldsbo0prpjlkhn4tc3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
